@@ -15,7 +15,9 @@ https://github.com/zoeyuchao/thudrone/blob/master/file_transfer.pdf
 
 ros基础代码学习：https://github.com/zoeyuchao/ros_base_code
 
-yolov3训练：https://github.com/zoeyuchao/yolov3 （助教录制的测试视频：https://github.com/zoeyuchao/thudrone/blob/master/yolov3_%E6%A3%80%E6%B5%8B.mp4）
+yolov3训练：https://github.com/zoeyuchao/yolov3 
+
+（助教录制的测试视频：https://github.com/zoeyuchao/thudrone/blob/master/yolov3_%E6%A3%80%E6%B5%8B.mp4）
 
 yolov3前向：https://github.com/zoeyuchao/yolov3_detect
 
