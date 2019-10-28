@@ -1,7 +1,7 @@
 # THU_Drone社区
 这是清华大学无人机赛课的社区，大家代码有问题直接开一个issue提问，同学们可以来热心解答，或者遇到相似问题的直接在底下+1即可，助教会解答并留下可复盘记录。示例提问已经写了一个，大家参考。
 
-用助教服务器的同学ubuntu怎么传文件：https://github.com/zoeyuchao/thudrone/blob/master/ubuntu%E4%BC%A0%E6%96%87%E4%BB%B6.pdf
+用助教服务器的同学ubuntu怎么传文件：https://github.com/zoeyuchao/thudrone/blob/master/file_transfer.pdf
 
 代码链接指路：
 
