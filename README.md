@@ -3,6 +3,8 @@
 
 代码链接指路：
 
+ros基础代码学习：https://github.com/zoeyuchao/ros_base_code
+
 yolov3训练：https://github.com/zoeyuchao/yolov3
 
 yolov3前向：https://github.com/zoeyuchao/yolov3_detect
