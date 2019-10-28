@@ -3,6 +3,8 @@
 
 代码链接指路：
 
+yolov3训练：https://github.com/zoeyuchao/yolov3
+
 yolov3前向：https://github.com/zoeyuchao/yolov3_detect
 
 tello_control:https://github.com/zoeyuchao/tello_control
