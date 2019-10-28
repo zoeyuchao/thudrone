@@ -19,3 +19,8 @@ ball_dataset:链接：https://pan.baidu.com/s/1TyprqABzm5tLs3HOFgVugw  提取码
 
 fire_dataset:链接：https://pan.baidu.com/s/1-ymWlo-sBN4i1GPcV98-Cg  提取码：gs8v 
 
+课程作业和参考答案指路：
+
+https://github.com/zoeyuchao/course
+
+
