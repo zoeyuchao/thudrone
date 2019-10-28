@@ -15,7 +15,7 @@ tello固件升级:https://github.com/zoeyuchao/tello_app
 
 数据集下载指路：
 
-ball_dataset:链接：https://pan.baidu.com/s/1TyprqABzm5tLs3HOFgVugw  提取码：1kgy 
+ball_dataset:链接：https://pan.baidu.com/s/1TyprqABzm5tLs3HOFgVugw  提取码：1kgy 有损坏图片，自行剔除
 
 fire_dataset:链接：https://pan.baidu.com/s/1-ymWlo-sBN4i1GPcV98-Cg  提取码：gs8v 
 
