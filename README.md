@@ -17,7 +17,7 @@
 
   - yolov3训练：https://github.com/zoeyuchao/yolov3 
 
-（助教录制的测试视频：https://github.com/zoeyuchao/thudrone/blob/master/yolov3_detect.mp4）
+    （助教录制的测试视频：https://github.com/zoeyuchao/thudrone/blob/master/yolov3_detect.mp4 ）
 
   - yolov3前向：https://github.com/zoeyuchao/yolov3_detect
 
@@ -30,9 +30,9 @@
 
 - **数据集下载指路**
 
-  -ball_dataset链接：https://pan.baidu.com/s/1TyprqABzm5tLs3HOFgVugw  提取码：1kgy 有损坏图片，自行剔除
+  - ball_dataset链接：https://pan.baidu.com/s/1TyprqABzm5tLs3HOFgVugw  提取码：1kgy 有损坏图片，自行剔除
 
-  -fire_dataset链接：https://pan.baidu.com/s/1-ymWlo-sBN4i1GPcV98-Cg  提取码：gs8v 
+  - fire_dataset链接：https://pan.baidu.com/s/1-ymWlo-sBN4i1GPcV98-Cg  提取码：gs8v 
 
 
 - **课程作业和参考答案指路(暂时不开放)**
