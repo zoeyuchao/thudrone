@@ -16,7 +16,7 @@
   https://github.com/zoeyuchao/thudrone/blob/master/file_transfer.pdf
 
 
-- **代码链接指路**
+- **代码**
 
   - ros基础代码学习：https://github.com/zoeyuchao/ros_base_code
 
@@ -33,7 +33,7 @@
   - tello固件升级:https://github.com/zoeyuchao/tello_app
 
 
-- **数据集下载指路**
+- **数据集下载**
 
   - ball_dataset链接：https://pan.baidu.com/s/1TyprqABzm5tLs3HOFgVugw  提取码：1kgy 有损坏图片，自行剔除
 
@@ -52,9 +52,12 @@
     
   - Mobaxterm (https://moba.en.softonic.com/): https://pan.baidu.com/s/17oYBVjHTYKAdd3bj_vsQqw
   
- - **比赛视频**
+  
+- **比赛**
+
+  - 初审试卷：https://github.com/zoeyuchao/thudrone/blob/master/2019%E5%B9%B4%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%8A%80%E6%9C%AF%E8%AE%BE%E8%AE%A1%E5%AE%9E%E8%B7%B5%E5%88%9D%E5%AE%A1.pdf
  
-   - 初赛赛题发布：https://pan.baidu.com/s/1grUXmaRsmaZXiw7ExSlSLQ  提取码：p5ur 
+  - 初赛赛题发布视频：https://pan.baidu.com/s/1grUXmaRsmaZXiw7ExSlSLQ  提取码：p5ur   
 
 
 - **课程作业和参考答案指路(暂时不开放)**
