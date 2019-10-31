@@ -57,7 +57,7 @@
   - 初赛赛题发布视频：https://pan.baidu.com/s/1grUXmaRsmaZXiw7ExSlSLQ  提取码：p5ur   
 
 
-- **课程作业和参考答案指路(暂时不开放)**
+- **课程作业和参考答案(暂时不开放)**
 
   https://github.com/zoeyuchao/course
 
