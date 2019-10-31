@@ -16,6 +16,8 @@
 - **代码**
 
   - ros基础代码学习：https://github.com/zoeyuchao/ros_base_code
+  
+    （ROS学习参考书：https://github.com/zoeyuchao/thudrone/blob/master/ROS_book.pdf）
 
   - yolov3训练：https://github.com/zoeyuchao/yolov3 
 
