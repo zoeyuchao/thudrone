@@ -38,6 +38,23 @@
   - ball_dataset链接：https://pan.baidu.com/s/1TyprqABzm5tLs3HOFgVugw  提取码：1kgy 有损坏图片，自行剔除
 
   - fire_dataset链接：https://pan.baidu.com/s/1-ymWlo-sBN4i1GPcV98-Cg  提取码：gs8v 
+  
+  
+- **软件下载区**
+
+  - VMware (https://www.vmware.com/): https://pan.baidu.com/s/1L9NaVld56JcWHItlLDWw1w
+  
+  - Virtual Box (https://www.virtualbox.org/wiki/Downloads)
+  
+    - Mac: https://pan.baidu.com/s/1s5roNIIlkvwC1O7Frn69Tg
+    
+    - Windows: https://pan.baidu.com/s/1vDdr0iM2Mej00homNn4wgg
+    
+  - Mobaxterm (https://moba.en.softonic.com/): https://pan.baidu.com/s/17oYBVjHTYKAdd3bj_vsQqw
+  
+ - **比赛视频**
+ 
+   - 初赛赛题发布：https://pan.baidu.com/s/1grUXmaRsmaZXiw7ExSlSLQ  提取码：p5ur 
 
 
 - **课程作业和参考答案指路(暂时不开放)**
