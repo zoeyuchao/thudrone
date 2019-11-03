@@ -115,7 +115,7 @@
     - 海报
       
       - 竖版：https://github.com/zoeyuchao/thudrone/tree/master/figure/Poster.png
-  - 横版：https://github.com/zoeyuchao/thudrone/tree/master/figure/Poster1.png
+    - 横版：https://github.com/zoeyuchao/thudrone/tree/master/figure/Poster1.png
   - 赛题示意视频 https://github.com/zoeyuchao/thudrone/blob/master/video/final_video.mp4
 
 
