@@ -8,9 +8,9 @@
 
 - **服务器**
 
-  - 如何使用助教服务器：https://github.com/zoeyuchao/thudrone/blob/master/server.md
+  - 如何使用助教服务器：https://github.com/zoeyuchao/thudrone/blob/master/file/server.md
 
-  - 用助教服务器ubuntu和windows怎么互传文件：https://github.com/zoeyuchao/thudrone/blob/master/file_transfer.pdf
+  - 用助教服务器ubuntu和windows怎么互传文件：https://github.com/zoeyuchao/thudrone/blob/master/file/file_transfer.pdf
 
 
 - **代码**
@@ -21,7 +21,7 @@
 
   - yolov3训练：https://github.com/zoeyuchao/yolov3 
 
-    （助教录制的测试视频：https://github.com/zoeyuchao/thudrone/blob/master/yolov3_detect.mp4 ）
+    （助教录制的测试视频：https://github.com/zoeyuchao/thudrone/blob/master/video/yolov3_detect.mp4 ）
 
   - yolov3前向：https://github.com/zoeyuchao/yolov3_detect
 
@@ -93,8 +93,8 @@
   
 - **比赛**
 
-  - 初审试卷：https://github.com/zoeyuchao/thudrone/blob/master/2019test.pdf
- 
+  - 初审试卷：https://github.com/zoeyuchao/thudrone/blob/master/file/2019test.pdf
+
   - 初赛赛题发布视频：
   
     - 百度网盘链接：https://pan.baidu.com/s/1grUXmaRsmaZXiw7ExSlSLQ  提取码：p5ur  
@@ -102,8 +102,13 @@
     - 清华网盘链接：https://cloud.tsinghua.edu.cn/f/1fee88488dd24be8a3ea/?dl=1
 
 
+- **课件（暂时不开放）**
+
+  https://github.com/zoeyuchao/thudrone_courseware
+
+
 - **课程作业和参考答案(暂时不开放)**
 
-  https://github.com/zoeyuchao/course
+  https://github.com/zoeyuchao/thudrone_homework
 
 
