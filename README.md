@@ -124,7 +124,7 @@
     - 无人机集群演示：https://github.com/zoeyuchao/tello_swarm
 
 
-- **课件（暂时不开放）**
+- **课件**
 
   https://github.com/zoeyuchao/thudrone_courseware
 
