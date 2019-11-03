@@ -50,15 +50,15 @@
 
   - ball.pt 
   
-    - 百度网盘链接：
+    - 百度网盘链接：https://pan.baidu.com/s/1YBy26Mx4IOmGjHOIClOxRA 提取码：qth5
     
-    - 清华网盘链接：https://cloud.tsinghua.edu.cn/f/74ecafcf9b574b069135/?dl=1
+    - 清华网盘链接：https://cloud.tsinghua.edu.cn/f/f6748453cced47608edb/?dl=1
     
   - fire.pt
   
-    - 百度网盘链接：
+    - 百度网盘链接：https://pan.baidu.com/s/1vnxqklnuik1iXrjurP3ZoQ 提取码：0kod
     
-    - 清华网盘链接：https://cloud.tsinghua.edu.cn/f/f6748453cced47608edb/?dl=1
+    - 清华网盘链接：https://cloud.tsinghua.edu.cn/f/74ecafcf9b574b069135/?dl=1
   
 - **软件**
 
