@@ -1,4 +1,6 @@
-# THU_Drone社区
+# THU_Drone
+![thudrone_logo]( https://github.com/zoeyuchao/thudrone/tree/master/figure/logo.jpg)
+
 这是清华大学无人机赛课的社区，欢迎大家一起来玩耍~
 
 代码有问题直接开一个issue提问，同学们可以来热心解答，或者遇到相似问题的直接在底下+1，助教有时间就会解答，这样我们可以代代相传。
@@ -94,12 +96,13 @@
 - **比赛**
 
   - 初审试卷：https://github.com/zoeyuchao/thudrone/blob/master/file/2019test.pdf
-
-  - 初赛赛题发布视频：
+- 初赛赛题发布视频：
   
     - 百度网盘链接：https://pan.baidu.com/s/1grUXmaRsmaZXiw7ExSlSLQ  提取码：p5ur  
-    
     - 清华网盘链接：https://cloud.tsinghua.edu.cn/f/1fee88488dd24be8a3ea/?dl=1
+  - 决赛海报：
+    -  https://github.com/zoeyuchao/thudrone/tree/master/figure/Poster.png
+    -  https://github.com/zoeyuchao/thudrone/tree/master/figure/Poster1.png
 
 
 - **课件（暂时不开放）**
