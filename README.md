@@ -34,10 +34,31 @@
 
 - **数据集**
 
-  - ball_dataset链接：https://pan.baidu.com/s/1TyprqABzm5tLs3HOFgVugw  提取码：1kgy 有损坏图片，自行剔除
-
-  - fire_dataset链接：https://pan.baidu.com/s/1-ymWlo-sBN4i1GPcV98-Cg  提取码：gs8v 
+  - ball_dataset
   
+    - 百度链接：https://pan.baidu.com/s/1TyprqABzm5tLs3HOFgVugw  提取码：1kgy （有损坏图片，自行剔除）
+    
+    - 清华网盘链接：https://cloud.tsinghua.edu.cn/f/f7b1b7e330fe4cefb5b8/?dl=1
+
+  - fire_dataset
+  
+    - 百度网盘链接：https://pan.baidu.com/s/1-ymWlo-sBN4i1GPcV98-Cg  提取码：gs8v 
+    
+    - 清华网盘链接：https://cloud.tsinghua.edu.cn/f/18f53cbb98c444399e0f/?dl=1
+  
+- **模型权重**
+
+  - ball.pt 
+  
+    - 百度网盘链接：
+    
+    - 清华网盘链接：https://cloud.tsinghua.edu.cn/f/74ecafcf9b574b069135/?dl=1
+    
+  - fire.pt
+  
+    - 百度网盘链接：
+    
+    - 清华网盘链接：https://cloud.tsinghua.edu.cn/f/f6748453cced47608edb/?dl=1
   
 - **软件**
 
