@@ -3,9 +3,7 @@
 
 这是清华大学无人机赛课的社区，欢迎大家一起来玩耍~
 
-代码有问题直接开一个issue提问，同学们可以来热心解答，或者遇到相似问题的直接在底下+1，助教有时间就会解答，这样我们可以代代相传。
-
-示例提问已经写了一个供大家参考，最好图文并茂，提供更多的信息。
+代码有问题直接开一个issue提问，同学们可以来热心解答，或者遇到相似问题的直接+1，助教有时间就会解答。示例提问已经写了一个供大家参考，最好图文并茂，提供更多的信息。
 
 
 - **Tello无人机**
@@ -115,7 +113,7 @@
     - 海报
       
       - 竖版：https://github.com/zoeyuchao/thudrone/tree/master/figure/Poster.png
-    - 横版：https://github.com/zoeyuchao/thudrone/tree/master/figure/Poster1.png
+      - 横版：https://github.com/zoeyuchao/thudrone/tree/master/figure/Poster1.png
   - 赛题示意视频 https://github.com/zoeyuchao/thudrone/blob/master/video/final_video.mp4
 
 
