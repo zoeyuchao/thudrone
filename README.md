@@ -101,20 +101,25 @@
 - **比赛**
 
   - 初审
+  
       - 试卷：https://github.com/zoeyuchao/thudrone/blob/master/file/2019test.pdf
+      
   - 初赛
     
       - 赛题发布视频
         
         - 百度网盘链接：https://pan.baidu.com/s/1grUXmaRsmaZXiw7ExSlSLQ  提取码：p5ur  
+        
         - 清华网盘链接：https://cloud.tsinghua.edu.cn/f/1fee88488dd24be8a3ea/?dl=1
-- 决赛
+  - 决赛
   
     - 海报
       
       - 竖版：https://github.com/zoeyuchao/thudrone/tree/master/figure/Poster.png
+      
       - 横版：https://github.com/zoeyuchao/thudrone/tree/master/figure/Poster1.png
-  - 赛题示意视频：https://github.com/zoeyuchao/thudrone/blob/master/video/final_video.mp4
+      
+    - 赛题示意视频：https://github.com/zoeyuchao/thudrone/blob/master/video/final_video.mp4
 
 
 - **课件（暂时不开放）**
