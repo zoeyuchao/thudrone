@@ -95,7 +95,11 @@
 
   - 初审试卷：https://github.com/zoeyuchao/thudrone/blob/master/2019test.pdf
  
-  - 初赛赛题发布视频：https://pan.baidu.com/s/1grUXmaRsmaZXiw7ExSlSLQ  提取码：p5ur   
+  - 初赛赛题发布视频：
+  
+    - 百度网盘链接：https://pan.baidu.com/s/1grUXmaRsmaZXiw7ExSlSLQ  提取码：p5ur  
+    
+    - 清华网盘链接：https://cloud.tsinghua.edu.cn/f/1fee88488dd24be8a3ea/?dl=1
 
 
 - **课程作业和参考答案(暂时不开放)**
