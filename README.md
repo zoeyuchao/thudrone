@@ -1,5 +1,5 @@
 # THU_Drone
-![thudrone_logo](https://github.com/zoeyuchao/thudrone/tree/master/figure/logo.png)
+![thudrone_logo](https://github.com/zoeyuchao/thudrone/blob/master/figure/logo.png)
 
 这是清华大学无人机赛课的社区，欢迎大家一起来玩耍~
 
