@@ -45,6 +45,7 @@
     - 百度网盘链接：https://pan.baidu.com/s/1-ymWlo-sBN4i1GPcV98-Cg  提取码：gs8v 
     
     - 清华网盘链接：https://cloud.tsinghua.edu.cn/f/18f53cbb98c444399e0f/?dl=1
+    
   
 - **模型权重**
 
@@ -59,19 +60,36 @@
     - 百度网盘链接：https://pan.baidu.com/s/1vnxqklnuik1iXrjurP3ZoQ  提取码：0kod
     
     - 清华网盘链接：https://cloud.tsinghua.edu.cn/f/74ecafcf9b574b069135/?dl=1
+    
   
 - **软件**
 
-  - VMware (https://www.vmware.com/): https://pan.baidu.com/s/1L9NaVld56JcWHItlLDWw1w
+  - VMware (https://www.vmware.com/): 
+  
+    - 百度网盘链接：https://pan.baidu.com/s/1L9NaVld56JcWHItlLDWw1w
+    
+    - 清华网盘链接：https://cloud.tsinghua.edu.cn/f/16517d2542df4370a2e4/?dl=1
   
   - Virtual Box (https://www.virtualbox.org/wiki/Downloads)
   
-    - Mac: https://pan.baidu.com/s/1s5roNIIlkvwC1O7Frn69Tg
+    - Mac: 
     
-    - Windows: https://pan.baidu.com/s/1vDdr0iM2Mej00homNn4wgg
+      - 百度网盘链接：https://pan.baidu.com/s/1s5roNIIlkvwC1O7Frn69Tg
+      
+      - 清华网盘链接：https://cloud.tsinghua.edu.cn/f/e2c0b692ec3c4530b471/?dl=1
     
-  - Mobaxterm (https://moba.en.softonic.com/): https://pan.baidu.com/s/17oYBVjHTYKAdd3bj_vsQqw
+    - Windows: 
+    
+      - 百度网盘链接：https://pan.baidu.com/s/1vDdr0iM2Mej00homNn4wgg
+      
+      - 清华网盘链接：https://cloud.tsinghua.edu.cn/f/2ebef88df2c14b909c92/?dl=1
+    
+  - Mobaxterm (https://moba.en.softonic.com/): 
   
+    - 百度网盘链接：https://pan.baidu.com/s/17oYBVjHTYKAdd3bj_vsQqw
+    
+    - 清华网盘链接：https://cloud.tsinghua.edu.cn/f/d21fad2f83ea4c9b86b3/?dl=1
+    
   
 - **比赛**
 
