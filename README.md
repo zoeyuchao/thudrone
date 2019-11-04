@@ -118,10 +118,10 @@
       - 竖版：https://github.com/zoeyuchao/thudrone/tree/master/figure/Poster.png
       
       - 横版：https://github.com/zoeyuchao/thudrone/tree/master/figure/Poster1.png
-      
     - 赛题示意视频：https://github.com/zoeyuchao/thudrone/blob/master/video/final_video.mp4
-    
-    - 无人机集群演示：https://github.com/zoeyuchao/tello_swarm
+    - 无人机集群演示：
+      - 代码：https://github.com/zoeyuchao/tello_swarm
+      - 视频：https://github.com/zoeyuchao/thudrone/blob/master/video/swarm_original.mp4
 
 
 - **课件**
