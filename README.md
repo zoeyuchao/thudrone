@@ -58,7 +58,7 @@
 
   - ball.pt 
   
-    - 百度网盘链接：https://pan.baidu.com/s/1YBy26Mx4IOmGjHOIClOxRA  提取码：qth5
+    - 百度网盘链接：链接：https://pan.baidu.com/s/1nrLffPnwhslNZHZPpmUAoA  提取码：lf6y 
     
     - 清华网盘链接：https://cloud.tsinghua.edu.cn/f/f6748453cced47608edb/?dl=1
     
