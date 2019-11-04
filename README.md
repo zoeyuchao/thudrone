@@ -102,8 +102,7 @@
 
   - 初审
   
-      - 试卷：https://github.com/zoeyuchao/thudrone/blob/master/file/2019test.pdf
-      
+      - 2019试卷：https://github.com/zoeyuchao/thudrone/blob/master/file/2019test.pdf
   - 初赛
     
       - 赛题发布视频
@@ -112,16 +111,16 @@
         
         - 清华网盘链接：https://cloud.tsinghua.edu.cn/f/1fee88488dd24be8a3ea/?dl=1
   - 决赛
-  
+  - 2019年比赛章程：https://github.com/zoeyuchao/thudrone/blob/master/file/2019thudrone.pdf
     - 海报
-      
+    
       - 竖版：https://github.com/zoeyuchao/thudrone/tree/master/figure/Poster.png
-      
+    
       - 横版：https://github.com/zoeyuchao/thudrone/tree/master/figure/Poster1.png
     - 赛题示意视频：https://github.com/zoeyuchao/thudrone/blob/master/video/final_video.mp4
     - 无人机集群演示：
-      - 代码：https://github.com/zoeyuchao/tello_swarm
-      - 视频：https://github.com/zoeyuchao/thudrone/blob/master/video/swarm_original.mp4
+        - 代码：https://github.com/zoeyuchao/tello_swarm
+        - 视频：https://github.com/zoeyuchao/thudrone/blob/master/video/swarm_original.mp4
 
 
 - **课件**
