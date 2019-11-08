@@ -37,7 +37,7 @@
 
   - tello_video：[Code](https://github.com/zoeyuchao/tello_video)
 
-  - tello固件升级:[Code](https://github.com/zoeyuchao/tello_app)
+  - tello固件升级：[Code](https://github.com/zoeyuchao/tello_app)
 
 
 - **数据集**
