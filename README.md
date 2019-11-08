@@ -138,6 +138,6 @@
 
 - **课程作业和参考答案(暂时不开放)**
 
-      https://github.com/zoeyuchao/thudrone_homework
+     https://github.com/zoeyuchao/thudrone_homework
 
 
