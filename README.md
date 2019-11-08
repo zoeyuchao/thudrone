@@ -5,6 +5,7 @@
 
 代码有问题直接开一个issue提问，同学们可以来热心解答，或者遇到相似问题的直接+1，助教有时间就会解答。示例提问已经写了一个供大家参考，最好图文并茂，提供更多的信息。
 
+## 目录
 
 - **Tello无人机**
 
@@ -24,11 +25,11 @@
 
   - ROS基础代码学习：[Code](https://github.com/zoeyuchao/ros_base_code)
   
-    （ROS学习参考书：[PDF](https://github.com/zoeyuchao/thudrone/blob/master/ROS_book.pdf) ）
+    - ROS学习参考书：[PDF](https://github.com/zoeyuchao/thudrone/blob/master/ROS_book.pdf)
 
   - yolov3训练：[Code](https://github.com/zoeyuchao/yolov3)
 
-    （助教录制的测试视频：[Video](https://github.com/zoeyuchao/thudrone/blob/master/video/yolov3_detect.mp4) ）
+    - 助教录制的测试视频：[Video](https://github.com/zoeyuchao/thudrone/blob/master/video/yolov3_detect.mp4) 
 
   - yolov3前向：[Code](https://github.com/zoeyuchao/yolov3_detect)
 
