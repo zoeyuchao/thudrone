@@ -23,21 +23,21 @@
 
 - **代码**
 
-  - ROS基础代码学习：[Code](https://github.com/zoeyuchao/ros_base_code)
+  - ROS基础代码学习：https://github.com/zoeyuchao/ros_base_code
   
     - ROS学习参考书：[PDF](https://github.com/zoeyuchao/thudrone/blob/master/ROS_book.pdf)
 
-  - yolov3训练：[Code](https://github.com/zoeyuchao/yolov3)
+  - yolov3训练：https://github.com/zoeyuchao/yolov3
 
     - 助教录制的测试视频：[Video](https://github.com/zoeyuchao/thudrone/blob/master/video/yolov3_detect.mp4) 
 
-  - yolov3前向：[Code](https://github.com/zoeyuchao/yolov3_detect)
+  - yolov3前向：https://github.com/zoeyuchao/yolov3_detect
 
-  - tello_control：[Code](https://github.com/zoeyuchao/tello_control)
+  - tello_control：https://github.com/zoeyuchao/tello_control
 
-  - tello_video：[Code](https://github.com/zoeyuchao/tello_video)
+  - tello_video：https://github.com/zoeyuchao/tello_video
 
-  - tello固件升级：[Code](https://github.com/zoeyuchao/tello_app)
+  - tello固件升级：https://github.com/zoeyuchao/tello_app
 
 
 - **数据集**
@@ -133,11 +133,11 @@
 
 - **课件**
 
-  [链接](https://github.com/zoeyuchao/thudrone_courseware)
+     https://github.com/zoeyuchao/thudrone_courseware
 
 
 - **课程作业和参考答案(暂时不开放)**
 
-  [链接](https://github.com/zoeyuchao/thudrone_homework)
+      https://github.com/zoeyuchao/thudrone_homework
 
 
