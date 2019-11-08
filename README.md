@@ -8,35 +8,35 @@
 
 - **Tello无人机**
 
-  - Tello：https://github.com/zoeyuchao/thudrone/blob/master/video/tello.mp4
+  - Tello：[官方视频](https://github.com/zoeyuchao/thudrone/blob/master/video/tello.mp4)
 
-  - Tello EDU(课程用)：https://github.com/zoeyuchao/thudrone/blob/master/video/tello_edu.mp4
+  - Tello EDU(课程用)：[官方视频](https://github.com/zoeyuchao/thudrone/blob/master/video/tello_edu.mp4)
 
 
 - **服务器**
 
-  - 如何使用助教服务器：https://github.com/zoeyuchao/thudrone/blob/master/file/server.md
+  - 如何使用助教服务器：[教程](https://github.com/zoeyuchao/thudrone/blob/master/file/server.md)
     
-  - 用助教服务器ubuntu和windows怎么互传文件：https://github.com/zoeyuchao/thudrone/blob/master/file/file_transfer.pdf
+  - 用助教服务器ubuntu和windows怎么互传文件：[PDF](https://github.com/zoeyuchao/thudrone/blob/master/file/file_transfer.pdf)
 
 
 - **代码**
 
-  - ROS基础代码学习：https://github.com/zoeyuchao/ros_base_code
+  - ROS基础代码学习：[Code](https://github.com/zoeyuchao/ros_base_code)
   
-    （ROS学习参考书：https://github.com/zoeyuchao/thudrone/blob/master/ROS_book.pdf ）
+    （ROS学习参考书：[PDF](https://github.com/zoeyuchao/thudrone/blob/master/ROS_book.pdf) ）
 
-  - yolov3训练：https://github.com/zoeyuchao/yolov3 
+  - yolov3训练：[Code](https://github.com/zoeyuchao/yolov3)
 
-    （助教录制的测试视频：https://github.com/zoeyuchao/thudrone/blob/master/video/yolov3_detect.mp4 ）
+    （助教录制的测试视频：[Video](https://github.com/zoeyuchao/thudrone/blob/master/video/yolov3_detect.mp4) ）
 
-  - yolov3前向：https://github.com/zoeyuchao/yolov3_detect
+  - yolov3前向：[Code](https://github.com/zoeyuchao/yolov3_detect)
 
-  - tello_control:https://github.com/zoeyuchao/tello_control
+  - tello_control：[Code](https://github.com/zoeyuchao/tello_control)
 
-  - tello_video:https://github.com/zoeyuchao/tello_video
+  - tello_video：[Code](https://github.com/zoeyuchao/tello_video)
 
-  - tello固件升级:https://github.com/zoeyuchao/tello_app
+  - tello固件升级:[Code](https://github.com/zoeyuchao/tello_app)
 
 
 - **数据集**
@@ -102,7 +102,7 @@
 
   - 初审
   
-      - 2019试卷：https://github.com/zoeyuchao/thudrone/blob/master/file/2019test.pdf
+      - 2019试卷：[PDF](https://github.com/zoeyuchao/thudrone/blob/master/file/2019test.pdf)
       
   - 初赛
     
@@ -113,30 +113,30 @@
         - 清华网盘链接：https://cloud.tsinghua.edu.cn/f/1fee88488dd24be8a3ea/?dl=1
   - 决赛
   
-    - 2019年比赛章程：https://github.com/zoeyuchao/thudrone/blob/master/file/2019thudrone.pdf
+    - 2019年比赛章程：[PDF](https://github.com/zoeyuchao/thudrone/blob/master/file/2019thudrone.pdf)
     
     - 海报
     
-      - 竖版：https://github.com/zoeyuchao/thudrone/tree/master/figure/Poster.png
+      - 竖版：[Image](https://github.com/zoeyuchao/thudrone/tree/master/figure/Poster.png)
     
-      - 横版：https://github.com/zoeyuchao/thudrone/tree/master/figure/Poster1.png
+      - 横版：[Image](https://github.com/zoeyuchao/thudrone/tree/master/figure/Poster1.png)
       
-    - 赛题示意视频：https://github.com/zoeyuchao/thudrone/blob/master/video/final_video.mp4
+    - 赛题示意视频：[Video](https://github.com/zoeyuchao/thudrone/blob/master/video/final_video.mp4)
     
     - 无人机集群演示：
     
-        - 代码：https://github.com/zoeyuchao/tello_swarm
+        - 代码：[Code](https://github.com/zoeyuchao/tello_swarm)
         
-        - 视频：https://github.com/zoeyuchao/thudrone/blob/master/video/swarm_original.mp4
+        - 视频：[Video](https://github.com/zoeyuchao/thudrone/blob/master/video/swarm_original.mp4)
 
 
 - **课件**
 
-  https://github.com/zoeyuchao/thudrone_courseware
+  [链接](https://github.com/zoeyuchao/thudrone_courseware)
 
 
 - **课程作业和参考答案(暂时不开放)**
 
-  https://github.com/zoeyuchao/thudrone_homework
+  [链接](https://github.com/zoeyuchao/thudrone_homework)
 
 
