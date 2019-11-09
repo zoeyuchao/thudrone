@@ -136,7 +136,7 @@
      https://github.com/zoeyuchao/thudrone_courseware
 
 
-- **课程作业和参考答案(暂时不开放)**
+- **课程作业和参考答案**
 
      https://github.com/zoeyuchao/thudrone_homework
 
