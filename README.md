@@ -24,11 +24,6 @@
 全部排名：https://github.com/zoeyuchao/thudrone/blob/master/file/preliminary-contest.md
 
 
-
-
-备注：
-  综合排名与验收时间相关联，提前验收通过的组会得到额外计时奖励。
-
 ## 目录
 
 - **Tello无人机**
