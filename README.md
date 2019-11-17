@@ -160,5 +160,12 @@
 - **课程作业和参考答案**
 
      https://github.com/zoeyuchao/thudrone_homework
+     
+- **同学整理的资料**
+  Thanks to 傅天予。
+
+  - [Linux命令](https://github.com/zoeyuchao/thudrone/blob/master/file/linux_order.pdf)
+  
+  - [Opencv](https://github.com/zoeyuchao/thudrone/blob/master/file/opencv.md)
 
 
