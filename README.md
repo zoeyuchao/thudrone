@@ -179,6 +179,12 @@
         - 代码：[Code](https://github.com/zoeyuchao/tello_swarm)
         
         - 视频：[Video](https://github.com/zoeyuchao/thudrone/blob/master/video/swarm_original.mp4)
+        
+    - 裁判机
+    
+       - 本地模拟机：https://github.com/zoeyuchao/tello_judge
+       
+       - 比赛裁判机
 
 
 - **课件**
