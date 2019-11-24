@@ -104,6 +104,9 @@
     
     - 清华网盘链接：https://cloud.tsinghua.edu.cn/f/18f53cbb98c444399e0f/?dl=1
     
+  - fire_dataset_new
+    
+    - 清华网盘链接：https://cloud.tsinghua.edu.cn/f/ffd2029946b44013a03b/?dl=1
   
 - **模型权重**
 
