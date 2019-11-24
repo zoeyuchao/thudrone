@@ -20,7 +20,7 @@
 | 9    | 11   | 李中森 汪颖祺 |
 | 10   | 37   | 傅炜 张雪辉   |
 | 11   | 40   | 谷海桥 蔡忠泽 |
-| 12   | 15   | 吴雨晨 郑彭畅 |
+| 12   | 15   | 吴雨晨 郑彭畅 陈一鸣 |
 
 全部排名：https://github.com/zoeyuchao/thudrone/blob/master/file/preliminary-contest.md
 祝贺大家！
