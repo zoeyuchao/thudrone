@@ -187,7 +187,7 @@
     
        - 本地模拟机：https://github.com/zoeyuchao/tello_judge
        
-       - 比赛裁判机
+       - 比赛裁判机：https://github.com/bqsgwys/UAVmaster
 
 
 - **课件**
