@@ -122,6 +122,10 @@
     
     - 清华网盘链接：https://cloud.tsinghua.edu.cn/f/74ecafcf9b574b069135/?dl=1
     
+  - fire_new.pt
+  
+    - 百度网盘链接：https://pan.baidu.com/s/1dRVtwi1etSEObMPW82wnDA  提取码：1gup
+    
   
 - **软件**
 
