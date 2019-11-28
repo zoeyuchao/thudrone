@@ -126,7 +126,7 @@
     
   - fire_new.pt
   
-    - 百度网盘链接：链接：https://pan.baidu.com/s/1TNjLhGkkbnlyqa_A7wiI3g 提取码：715s 
+    - 百度网盘链接：https://pan.baidu.com/s/1TNjLhGkkbnlyqa_A7wiI3g 提取码：715s 
     
     - 清华网盘链接：https://cloud.tsinghua.edu.cn/f/b2b5fb05152a4059b3f3/?dl=1
     
