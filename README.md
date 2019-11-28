@@ -88,6 +88,8 @@
   - tello_video：https://github.com/zoeyuchao/tello_video
 
   - tello固件升级：https://github.com/zoeyuchao/tello_app
+  
+  - opti-track：https://github.com/zoeyuchao/opti-track
 
 
 - **数据集**
