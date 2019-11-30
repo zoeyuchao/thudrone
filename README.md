@@ -85,7 +85,7 @@
 
   - tello_control：https://github.com/zoeyuchao/tello_control
   
-  - tello_monitor：https://github.com/zoeyuchao/tello_monitor (thanks to @[cpak00](https://github.com/cpak00))
+  - tello_monitor：https://github.com/zoeyuchao/tello_monitor (thanks to 陈一鸣@[cpak00](https://github.com/cpak00))
 
   - tello_video：https://github.com/zoeyuchao/tello_video
 
