@@ -197,7 +197,7 @@
         
     - 裁判机
     
-       - 本地模拟机：https://github.com/zoeyuchao/tello_judge
+       - 本地模拟机：https://github.com/yujincheng/thudrone_judge_example
        
        - 比赛裁判机：https://github.com/bqsgwys/UAVmaster
 
