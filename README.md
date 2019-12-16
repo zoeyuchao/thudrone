@@ -60,6 +60,8 @@
     - 本地模拟机：https://github.com/yujincheng/thudrone_judge_example
     
     - 比赛裁判机：https://github.com/bqsgwys/UAVmaster
+    
+  - 特等奖代码：https://github.com/EdrowsLuo/tello_final
 
 - **数据集**
 
